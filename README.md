@@ -54,4 +54,4 @@ The underlying electronics were engineered in KiCad. The board features clean ro
 ---
 
 ## AI Attribution Note
-**Please Note that AI was utilized to format this .README file, aswell as some basic project planning and debugging of the Keyboard.JSON, and Keymap.C files in VS.Code**
+**Please Note that AI was utilized for some basic project planning and debugging of the Keyboard.JSON, and Keymap.C files in VS.Code**
