@@ -1,0 +1,6 @@
+Item Name,Qty,Estimated Price (total) (USD),Item link,Notes
+0.91 in OLED Display,1,$6.88,Oled display,The display should come with headers
+SEEED Studio XIAO - RP2040,1,$10.99,RP2040,Should come with pre soldered headers
+Custom PCB,1,$2.10,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006,N/A
+3d printed case,,~ $2.00?,N/A,"Rough estimate for pricing, could vary"
+Total Price (USD):,$21.97,,,
