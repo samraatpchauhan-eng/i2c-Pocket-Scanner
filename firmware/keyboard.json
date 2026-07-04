@@ -1,0 +1,30 @@
+{
+    "keyboard_name": "i2c_pocket_scanner",
+    "manufacturer": "Samraat Chauhan",
+    "maintainer": "samraatpchauhan-eng",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "url": "https://github.com/samraatpchauhan-eng/i2c_Pocket_scanner",
+    "features": {
+        "bootmagic": false,
+        "console": true,
+        "matrix": true
+    },
+    "matrix_size": {
+        "rows": 1,
+        "cols": 1
+    },
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0001",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT_ortho_1x1": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0}
+            ]
+        }
+    }
+}
