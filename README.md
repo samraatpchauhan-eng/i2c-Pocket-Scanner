@@ -18,13 +18,11 @@ I designed this pocket scanner to streamline the prototyping workflow for custom
 Everything fits together precisely using a layered enclosure design. The case includes structural mounting points for the PCB, plates, and components to ensure zero deck-flex during heavy use.
 
 ### Case Assembly & Fitment
-*An isometric 3D CAD visualization highlighting how the PCB, Display, and structural enclosure layers interface together seamlessly.*
+*A 3D CAD visualization highlighting how the PCB, Display, and structural enclosure layers interface together seamlessly.*
 
 <img width="3840" height="3072" alt="i2c-Pocket-Scanner_2026-Jul-04_01-07-56AM-000_CustomizedView21038394676" src="https://github.com/user-attachments/assets/5f2415ad-23ea-4c49-a79a-22da372358aa" />
 
 <img width="3840" height="3072" alt="i2c-Pocket-Scanner_2026-Jul-04_01-12-03AM-000_CustomizedView26051647961" src="https://github.com/user-attachments/assets/89c6c1d9-1fca-478c-95c6-da3384f4a2bb" />
-
-*Designed completely from scratch in Autodesk Fusion 360.*
 
 ---
 
