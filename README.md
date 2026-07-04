@@ -32,7 +32,7 @@ Everything fits together precisely using a layered enclosure design. The case in
 The underlying electronics were engineered in KiCad. The board features clean routing paths optimized for the RP2040 pin configurations and an external header to wire external components
 
 ### Schematic Design
-*The underlying circuit schematic mapping the switch routing, and dual encoder connections to the microcontroller.*
+*The underlying circuit schematic mapping the switch routing.*
 
 <img width="1697" height="1052" alt="Screenshot 2026-07-03 181236" src="https://github.com/user-attachments/assets/af66402e-321c-4ffa-a013-8ca5acaf64ad" />
 
