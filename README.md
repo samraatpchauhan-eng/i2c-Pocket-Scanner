@@ -46,7 +46,7 @@ The underlying electronics were engineered in KiCad. The board features clean ro
 2. Press and hold the physical **BOOT** button on the RP2040 controller board.
 3. Reconnect the USB cable while holding the button, then release it.
 4. A virtual drive named will mount to your operating system.
-5. Drag and drop the `i2c_pocket_scanner_default.uf2` binary file directly onto the root of the drive.
+5. Drag and drop the `i2c-pocket-scanner.ino.uf2` binary file directly onto the root of the drive.
 6. The device will automatically flash, reboot, and initialize as an operational HID keyboard device.
 
 ---
