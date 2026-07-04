@@ -1,4 +1,4 @@
-# I2c Pocket Scanner
+# i2c Pocket Scanner
 
 The i2c_pocket_scanner is a lightweight, hardware-level diagnostic utility designed specifically for the RP2040 architecture (powered by QMK Firmware and ChibiOS). Built out of a necessity for seamless embedded development, this tool turns your custom microcontroller setup into an instant, on-the-go I2C bus analyzer.
 
